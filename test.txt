@@ -1,0 +1,2 @@
+To jest inna wiadomość, zapisana przez skrypt
+To jest jeszcze inna wiadomość, zapisana przez skrypt dodający tekst
